@@ -1,2 +1,9 @@
 # APP-MATAMOSQUITO
-Game feito a fins de estudos para aprender Js
+Game basico feito para  aprender o Js
+
+#Tecnologias Usadas
+
+-HTML
+-CSS
+-JAVASCRIPT
+
